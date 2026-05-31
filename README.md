@@ -84,7 +84,8 @@ int main()
 
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1665" height="610" alt="image" src="https://github.com/user-attachments/assets/f7abdbdb-b038-42e5-961d-7fa8b292fd60" />
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
@@ -141,7 +142,8 @@ int main()
 }
 ```
 ## OUTPUT
-![alt text](image-1.png)
+<img width="1530" height="624" alt="image" src="https://github.com/user-attachments/assets/a5ada46b-f25d-47f8-8e39-42633cfc78d8" />
+
 
 # RESULT:
 The program is executed successfully.
